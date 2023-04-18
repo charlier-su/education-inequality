@@ -1,5 +1,7 @@
 # Education Inequality Data Investigation
 
+This investigation aims to explore the relationship between socioeconomic factors and school performance, as measured by average student scores on the ACT exam, in order to understand the impact of educational opportunity inequality in U.S. high schools.
+
 ## Data
 
 - **EdGap**: Socioeconomic characteristics and average ACT scores of schools from [EdGap.org](https://edgap.org). Available in this repository as `EdGap_data.xlsx`.
